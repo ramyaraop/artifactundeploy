@@ -1,4 +1,4 @@
 steps:
   integrationArtifactUnDeploy:
-    cpiApiServiceKeyCredentialsId: CPICRED
+    cpiApiServiceKeyCredentialsId: roverpocServiceKeyCred
     integrationFlowId: test1
